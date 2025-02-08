@@ -138,7 +138,7 @@ const Footer = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Sumil Suthar
+                Shruthi Kashaveni
               </Link>
             </p>
           </div>
