@@ -38,8 +38,6 @@ Welcome to Shoekart – where style meets comfort! Shoekart is an e-commerce pla
 
 ## Demo
 
-Explore the project: [Shoekart](https://shoekart197.vercel.app)
-
 To experience Shoekart as a demo user, navigate to [User Login](https://shoekart197.vercel.app/login) and use the following credentials:
 
 ```plaintext
