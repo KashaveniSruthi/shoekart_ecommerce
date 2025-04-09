@@ -29,8 +29,7 @@ app.get("/", (req, res) => {
     description:
       "This is an API for an shoes E-commerce application. It provides endpoints for managing products, orders, and users.",
     author: {
-      name: "Sumil Suthar",
-      portfolio: "http://sumilsuthar.me/",
+      name: "Shruthi Kashaveni",
     },
     version: "1.0.0",
   });
